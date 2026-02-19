@@ -1,8 +1,8 @@
-#Hi, I'm Cronix!
+# Hi, I'm Cronix!
 - I am an ETCTI engineering student specializing in low-level systems programming and cybersecurity.
 - I build custom C++ tools to understand how operating system function and how malware exploits them.
 
-#Featured Projects
+# Featured Projects
 - I architected a 4-part C++ lab enviroment to understand the complete lifecycle of endpoint attacks, evasion, and detection on Linux systems.
 1. C++ Packet Sniffer (https://github.com/Cronix16/cpp-packet-sniffer):
 * A raw packet interception tool to monitor incoming traffic an catch malware attempting to communicate with C2 servers.
@@ -13,7 +13,7 @@
 4. Mini Linux EDR (https://github.com/Cronix16/cpp-mini-edr):
 * A User-Space runtime hunter. It leverages C++17 'std::filesystem' to monitor the '/proc' filesystem, successfully catching obfuscated fileless malware the moment it decrypts and executes in RAM.
 
-#Core Skills
+# Core Skills
 * Languages: C++, Bash.
 * OS Internals: Linux, Windows basic architecture.
 * Security Concepts: Endpoint Detection & Response (EDR), Obfuscation/Evasion, Packet Analysis, Signature Scanning.
