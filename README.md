@@ -11,7 +11,7 @@
 3. XOR Malware Crypter (https://github.com/Cronix16/cpp-xor-crypter):
 * An offensive tool built to bypass static analysis. It uses bitwise operations to obfuscate payloads, effectively blinding traditional Antivirus scans.
 4. Mini Linux EDR (https://github.com/Cronix16/cpp-mini-edr):
-* A User-Space runtime hunter. It leverages c++17 'std::filesystem' to monitor the '/proc' filesystem, successfully catching obfuscated fileless malware the moment it decrypts and executes in RAM.
+* A User-Space runtime hunter. It leverages C++17 'std::filesystem' to monitor the '/proc' filesystem, successfully catching obfuscated fileless malware the moment it decrypts and executes in RAM.
 
 #Core Skills
 * Languages: C++, Bash.
